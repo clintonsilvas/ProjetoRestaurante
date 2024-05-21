@@ -1,0 +1,15 @@
+Pedido Número: 3
+Data do Pedido: 21/05/2024
+Cliente: Cléber Nogueira
+Telefone: 35998779281
+Endereço: Praça, getulio vargas, 48, centro, Alfenas
+Itens do Pedido:
+- Frango
+- Mussarela
+- Guaraná-Ant.
+- 1 litro
+Tipo de Borda: Sem recheio
+Forma de Pagamento: Dinheiro
+Valor Total: R$0,00
+Pedido Realizado em: 55
+-------------------------------

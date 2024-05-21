@@ -1,0 +1,73 @@
+Pedido Número: 2
+Data do Pedido: 20/05/2024
+Cliente: Clinton
+Telefone: 35998779281
+Endereço: Rua, Alcides Tomaz, 59, Cruzeiro, Alfenas
+Itens do Pedido:
+- Calabresa
+- Frango
+- Coca-Cola
+- 1 litro
+Tipo de Borda: Sem recheio
+Forma de Pagamento: 
+Valor Total: R$113,60
+Pedido Realizado em: 604
+-------------------------------
+Pedido Número: 2
+Data do Pedido: 20/05/2024
+Cliente: Clinton
+Telefone: 35998779281
+Endereço: Rua, alcides tomaz moreira, 59, cruzeiro, Alterosa
+Itens do Pedido:
+- Calabresa
+- Mussarela
+- Coca-Cola
+- 1 litro
+Tipo de Borda: Sem recheio
+Forma de Pagamento: Cartão
+Valor Total: R$116,60
+Pedido Realizado em: 37
+-------------------------------
+Pedido Número: 2
+Data do Pedido: 20/05/2024
+Cliente: Clinton
+Telefone: 35998779281
+Endereço: Travessa, teste 1, 58, cruzeiro, Areado
+Itens do Pedido:
+- Calabresa
+- Coca-Cola
+- 1 litro
+Tipo de Borda: Sem recheio
+Forma de Pagamento: Pix
+Valor Total: R$58,60
+Pedido Realizado em: 36
+-------------------------------
+Pedido Número: 2
+Data do Pedido: 20/05/2024
+Cliente: Clinton Nogueira
+Telefone: 35998779281
+Endereço: Avenida, da saudade, 49, cruzeiro, Alterosa
+Itens do Pedido:
+- Calabresa
+- Mussarela
+- Guaraná-Ant.
+- 1 litro
+Tipo de Borda: Sem recheio
+Forma de Pagamento: Dinheiro
+Valor Total: R$116,60
+Pedido Realizado em: 68
+-------------------------------
+Pedido Número: 2
+Data do Pedido: 21/05/2024
+Cliente: clinton
+Telefone: 35998779281
+Endereço: Avenida, da saudade, 49, cruzeiro, Alterosa
+Itens do Pedido:
+- Calabresa
+- Guaraná-Ant.
+- 2 litros
+Tipo de Borda: Sem recheio
+Forma de Pagamento: Pix
+Valor Total: R$66,60
+Pedido Realizado em: 41
+-------------------------------
